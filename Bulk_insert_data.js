@@ -5,7 +5,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   database: 'sql_fakerjs',
-  password: 'Saritadubey@2004'
+  password: 'write_your_password_here',
 });
 
 // ✅ Only username, email, password (id MySQL handle karega)
